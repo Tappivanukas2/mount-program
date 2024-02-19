@@ -1,2 +1,2 @@
 # mount-program
-Mount distribution software for Star Ward the old Republic
+Mount distribution software for Star Wars the Old Republic
