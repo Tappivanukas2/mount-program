@@ -2,7 +2,7 @@
 # hommmaa raspberry tai hostaa botti killan serverillä | vaihtoehtoisesti voi myös kysyä clearlyltä hostaisko se
 # known issues: if one dude gets 2 wings in a row program bugs out and doesnt respect the ratio order anymore
 # indexes: player = 0, wings = 1, kills = 2, ratio = 3
-# next objective: ???
+# next objective: writing data to file
 # future objectives: database writing and fetching, UI, discord UI
 # need big list of example players done and start testing with that, check for duplicates when adding to file
 # change player creation to write to .txt file instead of array within program memory and work forward from there
