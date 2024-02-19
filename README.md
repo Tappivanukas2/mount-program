@@ -1,2 +1,2 @@
 # mount-program
-Mount distribution software for Star Wars the Old Republic
+Wings of the Architech mount distribution software for Star Wars the Old Republic
